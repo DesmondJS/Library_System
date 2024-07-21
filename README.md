@@ -34,10 +34,10 @@ The system uses file handling to store and manage book records.
 
 ## File Structure
 - `1.1.cpp`: Main source code file for the library management system.
-- `ADMIN.txt`: File containing admin usernames and passwords.
+- `Admin.txt`: File containing admin usernames and passwords.
 - `BookList.txt`: File containing the list of books.
 
 ## Sample Admin Login Credentials
-- Username: `admin`
-- Password: `password`
+- Username: `Desmond Ho`
+- Password: `1234`
 
