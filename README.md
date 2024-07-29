@@ -23,7 +23,7 @@ The system uses file handling to store and manage book records.
 - Make sure you have a console/terminal to run the program
 
 ### Usage
-1. Upon running the program, you will be prompted to log in as an administrator or as guest.
+1. Upon running the program, you will be prompted to log in as an administrator or as a guest.
 2. Once logged in, you will see a menu with the following options:
     - Search Books
     - View Books
